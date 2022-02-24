@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.mendix.com/package/1.0/">
+  <modelerProject xmlns="http://www.mendix.com/modelerProject/1.0/">
+    <module name="MxClientActions" />
+    <projectFile path="project.mpr" />
+    <files>
+      <file path="javascriptsource\mxclientactions\actions\JS_GetAppUrl.js" />
+      <file path="javascriptsource\mxclientactions\actions\JS_GetDeviceType.js" />
+      <file path="javascriptsource\mxclientactions\actions\JS_CanClosePage.js" />
+      <file path="javascriptsource\mxclientactions\actions\JS_ShowMxLoginPage.js" />
+      <file path="javascriptsource\mxclientactions\actions\JS_GetCurrentUser.js" />
+      <file path="javascriptsource\mxclientactions\actions\JS_GetUserRoles.js" />
+      <file path="javascriptsource\mxclientactions\actions\JS_HasUserRole.js" />
+      <file path="javascriptsource\mxclientactions\actions\JS_IsAnonymous.js" />
+      <file path="javascriptsource\mxclientactions\actions\JS_GetCurrentLanguage.js" />
+      <file path="themesource\mxclientactions\settings.json" />
+      <file path="themesource\mxclientactions\native\design-properties.json" />
+      <file path="themesource\mxclientactions\native\main.js" />
+      <file path="themesource\mxclientactions\web\design-properties.json" />
+      <file path="themesource\mxclientactions\web\main.scss" />
+    </files>
+  </modelerProject>
+</package>
